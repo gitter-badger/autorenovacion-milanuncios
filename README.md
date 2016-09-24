@@ -1,5 +1,7 @@
 #Autorenovación MIL ANUNCIOS.com
 
+[![Join the chat at https://gitter.im/autorenovacion-milanuncios/Lobby](https://badges.gitter.im/autorenovacion-milanuncios/Lobby.svg)](https://gitter.im/autorenovacion-milanuncios/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Autorenovación de anuncios de [MIL ANUNCIOS.com] (http://www.milanuncios.com/).
 
 ## Prequisitos
